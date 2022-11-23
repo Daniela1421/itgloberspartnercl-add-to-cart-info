@@ -1,0 +1,14 @@
+.container{
+    padding: 10px;
+    width: 30em
+}
+
+.container__item{
+    display: flex;
+    align-items: center;
+}
+
+.container__image{
+    width: 7em;
+}
+
